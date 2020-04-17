@@ -1,2 +1,2 @@
 # CFO-forcasts
-*.pyc
+
