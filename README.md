@@ -1,6 +1,5 @@
 # CFO-forcasts
 
-<<<<<<< HEAD
 
 ## Report of the project
 
