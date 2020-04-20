@@ -1,5 +1,6 @@
 # CFO-forcasts
 
+<<<<<<< HEAD
 
 ## Report of the project
 
@@ -36,3 +37,5 @@ The test split was performed without including this priode between september and
 In addition to not bias the evaluation of the model, the period that overlaps with the impact of this on-off shock is excluded from the data validation set when computing losses.
 
 We remove periode of the on-off shock that is conidered as anomalie (will not be repeated in the future) which mean that only the last 3 month of the validation will be used to compute the rmse of the model on the validation set.
+=======
+>>>>>>> a83e9ab98dda3123eceb238675c3b590a30fdd8d
