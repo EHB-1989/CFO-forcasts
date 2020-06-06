@@ -36,3 +36,7 @@ The test split was performed without including this priode between september and
 In addition to not bias the evaluation of the model, the period that overlaps with the impact of this on-off shock is excluded from the data validation set when computing losses.
 
 We remove periode of the on-off shock that is conidered as anomalie (will not be repeated in the future) which mean that only the last 3 month of the validation will be used to compute the rmse of the model on the validation set.
+
+### Deploy the sollution and make predictions
+The solution is developpded in a notebook and all the steps to follow are included inside to guide user to run the model proprely.
+
